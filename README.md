@@ -1,4 +1,4 @@
-# AuthMe
+# AuthMe: sistema di autenticazione continua per smartphone tramite accelerometro e giroscopio
 per info leggere doc.pdf
 
 a causa della grande mole di dati ottenuti dall'estrazione delle feature per i diversi tempi di autenticazione si è deciso di non includere tutte le feature estratte.
